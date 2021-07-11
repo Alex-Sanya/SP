@@ -1,0 +1,4 @@
+conformity_1.txt
+map_7.txt
+player_7.txt
+enemys_7.txt
